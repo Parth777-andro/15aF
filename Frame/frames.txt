@@ -54,7 +54,7 @@
                        "https://raw.githubusercontent.com/Parth777-andro/15aF/master/Pic/l21.png",
         "https://raw.githubusercontent.com/Parth777-andro/15aF/master/Pic/l22.png",
         "https://raw.githubusercontent.com/Parth777-andro/15aF/master/Pic/l23.png",
-        "https://raw.githubusercontent.com/Parth777-andro/15aF/master/Pic/pl24.png"
+        "https://raw.githubusercontent.com/Parth777-andro/15aF/master/Pic/l24.png"
                        
     
        
